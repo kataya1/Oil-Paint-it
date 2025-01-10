@@ -1,5 +1,5 @@
 <h2>Oil paint it</h2>
-<p>change the image into an oil painting </p>
+<p>A tool to turn Pictures into Oil paintings</p>
 <p>using bilateral filter to flatinize the image and preserve the edges</p>
 
 <div>
